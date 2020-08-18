@@ -2,8 +2,8 @@
 
 ## Requirements
 ```
-Django==2.0.2
-Python 3.4.2
+Django 3.x
+Python 3.x
 ```
 ## Run the project
 ```
